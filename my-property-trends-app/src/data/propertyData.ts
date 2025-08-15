@@ -132,7 +132,7 @@ export const allData: AllData = {
   Ahmedabad: {
     price: "₹5,900",
     growth: "+4.0%",
-    image: "/ahmedabad.jpeg",
+    image: "/Ahmedabad.jpeg",
     appreciating: [
       { name: "Bopal", growth: "+6.5%", avgPrice: "₹5,400", state: "Gujarat" },
       { name: "SG Highway", growth: "+6.1%", avgPrice: "₹6,100", state: "Gujarat" },
